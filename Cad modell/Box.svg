@@ -6,7 +6,7 @@
    version="1.1"
    id="svg41"
    sodipodi:docname="Box.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,15 +26,17 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.3882567"
-     inkscape:cx="302.89786"
-     inkscape:cy="134.70131"
+     inkscape:zoom="1.311106"
+     inkscape:cx="368.39127"
+     inkscape:cy="477.84085"
      inkscape:window-width="2560"
-     inkscape:window-height="1367"
+     inkscape:window-height="1368"
      inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg41" />
+     inkscape:current-layer="svg41"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <!--
 ClosedBox - Fully closed box
 
@@ -84,22 +86,6 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/boxes.py/ClosedBox?h=50.
     </rdf:RDF>
   </metadata>
   <g
-     id="p-0"
-     style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
-    <path
-       d="M 10.100 225.300 H 110.100 V 215.300 H 10.100 V 225.300 Z"
-       stroke="rgb(0,0,0)"
-       stroke-width="0.20"
-       id="path6" />
-    <text
-       dominant-baseline="hanging"
-       font-size="6px"
-       style="font-family: sans-serif ; font-weight: normal; font-style: normal; fill: rgb(255,0,0)"
-       text-anchor="middle"
-       transform="matrix( 1.000 0.000 0.000 1.000 60.100 217.300 )"
-       id="text8">100.0mm, burn:0.10mm</text>
-  </g>
-  <g
      id="p-1"
      style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
     <text
@@ -148,22 +134,6 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/boxes.py/ClosedBox?h=50.
        id="path23" />
   </g>
   <g
-     id="p-4"
-     style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
-    <text
-       dominant-baseline="hanging"
-       font-size="4px"
-       style="font-family: sans-serif ; font-weight: normal; font-style: normal; fill: rgb(255,0,0)"
-       text-anchor="middle"
-       transform="matrix( 1.000 0.000 0.000 1.000 60.100 134.900 )"
-       id="text26">Wall 3</text>
-    <path
-       d="M 13.100 161.900 H 21.100 C 21.155 161.900 21.200 161.855 21.200 161.800 V 158.900 C 21.200 158.800 21.100 158.900 21.200 158.900 H 27.000 C 27.100 158.900 27.000 158.800 27.000 158.900 V 161.800 C 27.000 161.855 27.045 161.900 27.100 161.900 H 33.100 C 33.155 161.900 33.200 161.855 33.200 161.800 V 158.900 C 33.200 158.800 33.100 158.900 33.200 158.900 H 39.000 C 39.100 158.900 39.000 158.800 39.000 158.900 V 161.800 C 39.000 161.855 39.045 161.900 39.100 161.900 H 45.100 C 45.155 161.900 45.200 161.855 45.200 161.800 V 158.900 C 45.200 158.800 45.100 158.900 45.200 158.900 H 51.000 C 51.100 158.900 51.000 158.800 51.000 158.900 V 161.800 C 51.000 161.855 51.045 161.900 51.100 161.900 H 57.100 C 57.155 161.900 57.200 161.855 57.200 161.800 V 158.900 C 57.200 158.800 57.100 158.900 57.200 158.900 H 63.000 C 63.100 158.900 63.000 158.800 63.000 158.900 V 161.800 C 63.000 161.855 63.045 161.900 63.100 161.900 H 69.100 C 69.155 161.900 69.200 161.855 69.200 161.800 V 158.900 C 69.200 158.800 69.100 158.900 69.200 158.900 H 75.000 C 75.100 158.900 75.000 158.800 75.000 158.900 V 161.800 C 75.000 161.855 75.045 161.900 75.100 161.900 H 81.100 C 81.155 161.900 81.200 161.855 81.200 161.800 V 158.900 C 81.200 158.800 81.100 158.900 81.200 158.900 H 87.000 C 87.100 158.900 87.000 158.800 87.000 158.900 V 161.800 C 87.000 161.855 87.045 161.900 87.100 161.900 H 93.100 C 93.155 161.900 93.200 161.855 93.200 161.800 V 158.900 C 93.200 158.800 93.100 158.900 93.200 158.900 H 99.000 C 99.100 158.900 99.000 158.800 99.000 158.900 V 161.800 C 99.000 161.855 99.045 161.900 99.100 161.900 H 107.100 H 110.100 C 110.155 161.900 110.200 161.855 110.200 161.800 V 158.800 V 151.800 C 110.200 151.745 110.155 151.700 110.100 151.700 H 107.200 C 107.100 151.700 107.200 151.800 107.200 151.700 V 145.900 C 107.200 145.800 107.100 145.900 107.200 145.900 H 110.100 C 110.155 145.900 110.200 145.855 110.200 145.800 V 139.800 C 110.200 139.745 110.155 139.700 110.100 139.700 H 107.200 C 107.100 139.700 107.200 139.800 107.200 139.700 V 133.900 C 107.200 133.800 107.100 133.900 107.200 133.900 H 110.100 C 110.155 133.900 110.200 133.855 110.200 133.800 V 127.800 C 110.200 127.745 110.155 127.700 110.100 127.700 H 107.200 C 107.100 127.700 107.200 127.800 107.200 127.700 V 121.900 C 107.200 121.800 107.100 121.900 107.200 121.900 H 110.100 C 110.155 121.900 110.200 121.855 110.200 121.800 V 114.800 V 111.800 C 110.200 111.745 110.155 111.700 110.100 111.700 H 107.100 H 99.100 C 99.045 111.700 99.000 111.745 99.000 111.800 V 114.700 C 99.000 114.800 99.100 114.700 99.000 114.700 H 93.200 C 93.100 114.700 93.200 114.800 93.200 114.700 V 111.800 C 93.200 111.745 93.155 111.700 93.100 111.700 H 87.100 C 87.045 111.700 87.000 111.745 87.000 111.800 V 114.700 C 87.000 114.800 87.100 114.700 87.000 114.700 H 81.200 C 81.100 114.700 81.200 114.800 81.200 114.700 V 111.800 C 81.200 111.745 81.155 111.700 81.100 111.700 H 75.100 C 75.045 111.700 75.000 111.745 75.000 111.800 V 114.700 C 75.000 114.800 75.100 114.700 75.000 114.700 H 69.200 C 69.100 114.700 69.200 114.800 69.200 114.700 V 111.800 C 69.200 111.745 69.155 111.700 69.100 111.700 H 63.100 C 63.045 111.700 63.000 111.745 63.000 111.800 V 114.700 C 63.000 114.800 63.100 114.700 63.000 114.700 H 57.200 C 57.100 114.700 57.200 114.800 57.200 114.700 V 111.800 C 57.200 111.745 57.155 111.700 57.100 111.700 H 51.100 C 51.045 111.700 51.000 111.745 51.000 111.800 V 114.700 C 51.000 114.800 51.100 114.700 51.000 114.700 H 45.200 C 45.100 114.700 45.200 114.800 45.200 114.700 V 111.800 C 45.200 111.745 45.155 111.700 45.100 111.700 H 39.100 C 39.045 111.700 39.000 111.745 39.000 111.800 V 114.700 C 39.000 114.800 39.100 114.700 39.000 114.700 H 33.200 C 33.100 114.700 33.200 114.800 33.200 114.700 V 111.800 C 33.200 111.745 33.155 111.700 33.100 111.700 H 27.100 C 27.045 111.700 27.000 111.745 27.000 111.800 V 114.700 C 27.000 114.800 27.100 114.700 27.000 114.700 H 21.200 C 21.100 114.700 21.200 114.800 21.200 114.700 V 111.800 C 21.200 111.745 21.155 111.700 21.100 111.700 H 13.100 H 10.100 C 10.045 111.700 10.000 111.745 10.000 111.800 V 114.800 V 121.800 C 10.000 121.855 10.045 121.900 10.100 121.900 H 13.000 C 13.100 121.900 13.000 121.800 13.000 121.900 V 127.700 C 13.000 127.800 13.100 127.700 13.000 127.700 H 10.100 C 10.045 127.700 10.000 127.745 10.000 127.800 V 133.800 C 10.000 133.855 10.045 133.900 10.100 133.900 H 13.000 C 13.100 133.900 13.000 133.800 13.000 133.900 V 139.700 C 13.000 139.800 13.100 139.700 13.000 139.700 H 10.100 C 10.045 139.700 10.000 139.745 10.000 139.800 V 145.800 C 10.000 145.855 10.045 145.900 10.100 145.900 H 13.000 C 13.100 145.900 13.000 145.800 13.000 145.900 V 151.700 C 13.000 151.800 13.100 151.700 13.000 151.700 H 10.100 C 10.045 151.700 10.000 151.745 10.000 151.800 V 158.800 V 161.800 C 10.000 161.855 10.045 161.900 10.100 161.900 H 13.100"
-       stroke="rgb(0,0,0)"
-       stroke-width="0.20"
-       id="path28" />
-  </g>
-  <g
      id="p-6"
      style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
     <text
@@ -180,1065 +150,1068 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/boxes.py/ClosedBox?h=50.
        id="path38" />
   </g>
   <g
-     id="g1339">
+     id="g935">
     <g
-       id="g1159">
-      <path
-         id="Cut_f0000"
-         d="m 20.951379,107.25918 h -7.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0001"
-         d="m 13.051379,107.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0002"
-         d="m 20.951379,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0005"
-         d="m 12.951379,107.15918 v -7.900001 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0006"
-         d="m 21.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0007"
-         d="m 12.951379,99.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0008"
-         d="m 27.051379,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0009"
-         d="m 10.051379,99.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0010"
-         d="m 27.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0011"
-         d="m 9.951379,99.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0012"
-         d="m 27.151379,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0013"
-         d="m 9.951379,93.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0014"
-         d="m 32.951379,107.25918 h -5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0015"
-         d="m 10.051379,93.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0016"
-         d="m 32.951379,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0017"
-         d="m 12.951379,93.059179 v -5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0018"
-         d="m 33.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0019"
-         d="m 12.951379,87.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0020"
-         d="m 39.051379,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0021"
-         d="m 10.051379,87.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0022"
-         d="m 39.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0023"
-         d="m 9.951379,87.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0024"
-         d="m 39.151379,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0025"
-         d="m 9.951379,81.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0026"
-         d="m 44.951379,107.25918 h -5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0027"
-         d="m 10.051379,81.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0028"
-         d="m 44.951379,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0029"
-         d="m 12.951379,81.059179 v -5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0030"
-         d="m 45.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0031"
-         d="m 12.951379,75.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0032"
-         d="m 51.051379,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0033"
-         d="m 10.051379,75.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0034"
-         d="m 51.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0035"
-         d="m 9.951379,75.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0036"
-         d="m 51.151379,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0037"
-         d="m 9.951379,69.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0038"
-         d="m 56.951379,107.25918 h -5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0039"
-         d="m 10.051379,69.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0040"
-         d="m 56.951379,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0041"
-         d="m 12.951379,69.059179 v -5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0042"
-         d="m 57.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0043"
-         d="m 12.951379,63.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0044"
-         d="m 63.051379,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0045"
-         d="m 10.051379,63.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0046"
-         d="m 63.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0047"
-         d="m 9.951379,63.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0048"
-         d="m 63.151379,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0049"
-         d="m 9.951379,57.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0050"
-         d="m 68.951379,107.25918 h -5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0051"
-         d="m 10.051379,57.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0052"
-         d="m 68.951379,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0053"
-         d="m 12.951379,57.059179 v -5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0054"
-         d="m 69.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0055"
-         d="m 12.951379,51.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0056"
-         d="m 75.051379,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0057"
-         d="m 10.051379,51.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0058"
-         d="m 75.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0059"
-         d="m 9.951379,51.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0060"
-         d="m 75.151379,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0061"
-         d="m 9.951379,45.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0062"
-         d="m 80.951376,107.25918 h -5.799997 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0063"
-         d="m 10.051379,45.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0064"
-         d="m 80.951376,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0065"
-         d="m 12.951379,45.059179 v -5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0066"
-         d="m 81.051376,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0067"
-         d="m 12.951379,39.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0068"
-         d="m 87.051376,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0069"
-         d="m 10.051379,39.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0070"
-         d="m 87.151376,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0071"
-         d="m 9.951379,39.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0072"
-         d="m 87.151376,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0073"
-         d="m 9.951379,33.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0074"
-         d="m 92.951376,107.25918 h -5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0075"
-         d="m 10.051379,33.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0076"
-         d="m 92.951376,110.15918 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0077"
-         d="m 12.951379,33.059179 v -5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0078"
-         d="m 93.051376,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0079"
-         d="m 12.951379,27.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0080"
-         d="m 99.051376,110.25918 h -6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0081"
-         d="m 10.051379,27.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0082"
-         d="m 99.151376,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0083"
-         d="m 9.951379,27.159179 v -6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0084"
-         d="m 99.151376,107.25918 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0085"
-         d="m 9.951379,21.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0086"
-         d="m 107.05138,107.25918 h -7.900004 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0087"
-         d="m 10.051379,21.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0088"
-         d="m 107.15138,107.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0089"
-         d="m 12.951379,21.059179 v -7.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0090"
-         d="m 107.15138,99.259179 v 7.900001 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0091"
-         d="m 12.951379,13.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0092"
-         d="m 110.05138,99.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0093"
-         d="m 13.051379,13.059179 h 7.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0094"
-         d="m 110.15138,99.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0095"
-         d="m 20.951379,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0096"
-         d="m 110.15138,93.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0097"
-         d="m 20.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0098"
-         d="m 110.05138,93.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0099"
-         d="m 21.051379,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0100"
-         d="m 107.15138,93.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0101"
-         d="m 27.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0102"
-         d="m 107.15138,87.259179 v 5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0103"
-         d="m 27.151379,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0104"
-         d="m 110.05138,87.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0105"
-         d="m 27.151379,13.059179 h 5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0106"
-         d="m 110.15138,87.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0107"
-         d="m 32.951379,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0108"
-         d="m 110.15138,81.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0109"
-         d="m 32.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0110"
-         d="m 110.05138,81.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0111"
-         d="m 33.051379,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0112"
-         d="m 107.15138,81.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0113"
-         d="m 39.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0114"
-         d="m 107.15138,75.259179 v 5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0115"
-         d="m 39.151379,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0116"
-         d="m 110.05138,75.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0117"
-         d="m 39.151379,13.059179 h 5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0118"
-         d="m 110.15138,75.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0119"
-         d="m 44.951379,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0120"
-         d="m 110.15138,69.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0121"
-         d="m 44.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0122"
-         d="m 110.05138,69.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0123"
-         d="m 45.051379,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0124"
-         d="m 107.15138,69.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0125"
-         d="m 51.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0126"
-         d="m 107.15138,63.259179 v 5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0127"
-         d="m 51.151379,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0128"
-         d="m 110.05138,63.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0129"
-         d="m 51.151379,13.059179 h 5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0130"
-         d="m 110.15138,63.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0131"
-         d="m 56.951379,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0132"
-         d="m 110.15138,57.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0133"
-         d="m 56.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0134"
-         d="m 110.05138,57.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0135"
-         d="m 57.051379,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0136"
-         d="m 107.15138,57.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0137"
-         d="m 63.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0138"
-         d="m 107.15138,51.259179 v 5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0139"
-         d="m 63.151379,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0140"
-         d="m 110.05138,51.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0141"
-         d="m 63.151379,13.059179 h 5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0142"
-         d="m 110.15138,51.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0143"
-         d="m 68.951379,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0144"
-         d="m 110.15138,45.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0145"
-         d="m 68.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0146"
-         d="m 110.05138,45.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0147"
-         d="m 69.051379,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0148"
-         d="m 107.15138,45.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0149"
-         d="m 75.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0150"
-         d="m 107.15138,39.259179 v 5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0151"
-         d="m 75.151379,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0152"
-         d="m 110.05138,39.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0153"
-         d="m 75.151379,13.059179 h 5.799997 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0154"
-         d="m 110.15138,39.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0155"
-         d="m 80.951376,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0156"
-         d="m 110.15138,33.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0157"
-         d="m 80.951376,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0158"
-         d="m 110.05138,33.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0159"
-         d="m 81.051376,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0160"
-         d="m 107.15138,33.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0161"
-         d="m 87.051376,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0162"
-         d="m 107.15138,27.259179 v 5.8 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0163"
-         d="m 87.151376,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0164"
-         d="m 110.05138,27.259179 h -2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0165"
-         d="m 87.151376,13.059179 h 5.8 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0166"
-         d="m 110.15138,27.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0167"
-         d="m 92.951376,13.059179 v -2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0168"
-         d="m 110.15138,21.159179 v 6 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0169"
-         d="m 92.951376,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0170"
-         d="m 110.05138,21.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0171"
-         d="m 93.051376,10.059179 h 6 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0172"
-         d="m 107.15138,21.059179 h 2.9 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0173"
-         d="m 99.051376,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0174"
-         d="m 107.15138,13.159179 v 7.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0175"
-         d="m 99.151376,10.159179 v 2.9 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0176"
-         d="m 107.05138,13.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
-         id="Cut_f0177"
-         d="m 99.151376,13.059179 h 7.900004 v 0 z"
-         stroke="#191919"
-         stroke-width="0.35 px"
-         style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+       id="g754">
+      <g
+         id="g1159">
+        <path
+           id="Cut_f0000"
+           d="m 20.951379,107.25918 h -7.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0001"
+           d="m 13.051379,107.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0002"
+           d="m 20.951379,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0005"
+           d="m 12.951379,107.15918 v -7.900001 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0006"
+           d="m 21.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0007"
+           d="m 12.951379,99.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0008"
+           d="m 27.051379,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0009"
+           d="m 10.051379,99.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0010"
+           d="m 27.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0011"
+           d="m 9.951379,99.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0012"
+           d="m 27.151379,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0013"
+           d="m 9.951379,93.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0014"
+           d="m 32.951379,107.25918 h -5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0015"
+           d="m 10.051379,93.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0016"
+           d="m 32.951379,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0017"
+           d="m 12.951379,93.059179 v -5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0018"
+           d="m 33.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0019"
+           d="m 12.951379,87.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0020"
+           d="m 39.051379,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0021"
+           d="m 10.051379,87.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0022"
+           d="m 39.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0023"
+           d="m 9.951379,87.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0024"
+           d="m 39.151379,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0025"
+           d="m 9.951379,81.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0026"
+           d="m 44.951379,107.25918 h -5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0027"
+           d="m 10.051379,81.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0028"
+           d="m 44.951379,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0029"
+           d="m 12.951379,81.059179 v -5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0030"
+           d="m 45.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0031"
+           d="m 12.951379,75.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0032"
+           d="m 51.051379,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0033"
+           d="m 10.051379,75.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0034"
+           d="m 51.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0035"
+           d="m 9.951379,75.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0036"
+           d="m 51.151379,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0037"
+           d="m 9.951379,69.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0038"
+           d="m 56.951379,107.25918 h -5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0039"
+           d="m 10.051379,69.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0040"
+           d="m 56.951379,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0041"
+           d="m 12.951379,69.059179 v -5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0042"
+           d="m 57.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0043"
+           d="m 12.951379,63.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0044"
+           d="m 63.051379,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0045"
+           d="m 10.051379,63.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0046"
+           d="m 63.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0047"
+           d="m 9.951379,63.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0048"
+           d="m 63.151379,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0049"
+           d="m 9.951379,57.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0050"
+           d="m 68.951379,107.25918 h -5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0051"
+           d="m 10.051379,57.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0052"
+           d="m 68.951379,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0053"
+           d="m 12.951379,57.059179 v -5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0054"
+           d="m 69.051379,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0055"
+           d="m 12.951379,51.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0056"
+           d="m 75.051379,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0057"
+           d="m 10.051379,51.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0058"
+           d="m 75.151379,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0059"
+           d="m 9.951379,51.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0060"
+           d="m 75.151379,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0061"
+           d="m 9.951379,45.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0062"
+           d="m 80.951376,107.25918 h -5.799997 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0063"
+           d="m 10.051379,45.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0064"
+           d="m 80.951376,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0065"
+           d="m 12.951379,45.059179 v -5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0066"
+           d="m 81.051376,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0067"
+           d="m 12.951379,39.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0068"
+           d="m 87.051376,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0069"
+           d="m 10.051379,39.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0070"
+           d="m 87.151376,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0071"
+           d="m 9.951379,39.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0072"
+           d="m 87.151376,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0073"
+           d="m 9.951379,33.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0074"
+           d="m 92.951376,107.25918 h -5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0075"
+           d="m 10.051379,33.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0076"
+           d="m 92.951376,110.15918 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0077"
+           d="m 12.951379,33.059179 v -5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0078"
+           d="m 93.051376,110.25918 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0079"
+           d="m 12.951379,27.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0080"
+           d="m 99.051376,110.25918 h -6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0081"
+           d="m 10.051379,27.259179 c -0.055,0 -0.1,-0.045 -0.1,-0.1 v 0 c 0,0.055 0.045,0.1 0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0082"
+           d="m 99.151376,110.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0083"
+           d="m 9.951379,27.159179 v -6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0084"
+           d="m 99.151376,107.25918 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0085"
+           d="m 9.951379,21.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0086"
+           d="m 107.05138,107.25918 h -7.900004 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0087"
+           d="m 10.051379,21.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0088"
+           d="m 107.15138,107.15918 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0089"
+           d="m 12.951379,21.059179 v -7.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0090"
+           d="m 107.15138,99.259179 v 7.900001 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0091"
+           d="m 12.951379,13.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0092"
+           d="m 110.05138,99.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0093"
+           d="m 13.051379,13.059179 h 7.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0094"
+           d="m 110.15138,99.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0095"
+           d="m 20.951379,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0096"
+           d="m 110.15138,93.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0097"
+           d="m 20.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0098"
+           d="m 110.05138,93.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0099"
+           d="m 21.051379,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0100"
+           d="m 107.15138,93.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0101"
+           d="m 27.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0102"
+           d="m 107.15138,87.259179 v 5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0103"
+           d="m 27.151379,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0104"
+           d="m 110.05138,87.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0105"
+           d="m 27.151379,13.059179 h 5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0106"
+           d="m 110.15138,87.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0107"
+           d="m 32.951379,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0108"
+           d="m 110.15138,81.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0109"
+           d="m 32.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0110"
+           d="m 110.05138,81.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0111"
+           d="m 33.051379,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0112"
+           d="m 107.15138,81.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0113"
+           d="m 39.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0114"
+           d="m 107.15138,75.259179 v 5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0115"
+           d="m 39.151379,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0116"
+           d="m 110.05138,75.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0117"
+           d="m 39.151379,13.059179 h 5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0118"
+           d="m 110.15138,75.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0119"
+           d="m 44.951379,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0120"
+           d="m 110.15138,69.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0121"
+           d="m 44.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0122"
+           d="m 110.05138,69.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0123"
+           d="m 45.051379,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0124"
+           d="m 107.15138,69.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0125"
+           d="m 51.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0126"
+           d="m 107.15138,63.259179 v 5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0127"
+           d="m 51.151379,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0128"
+           d="m 110.05138,63.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0129"
+           d="m 51.151379,13.059179 h 5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0130"
+           d="m 110.15138,63.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0131"
+           d="m 56.951379,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0132"
+           d="m 110.15138,57.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0133"
+           d="m 56.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0134"
+           d="m 110.05138,57.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0135"
+           d="m 57.051379,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0136"
+           d="m 107.15138,57.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0137"
+           d="m 63.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0138"
+           d="m 107.15138,51.259179 v 5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0139"
+           d="m 63.151379,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0140"
+           d="m 110.05138,51.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0141"
+           d="m 63.151379,13.059179 h 5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0142"
+           d="m 110.15138,51.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0143"
+           d="m 68.951379,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0144"
+           d="m 110.15138,45.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0145"
+           d="m 68.951379,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0146"
+           d="m 110.05138,45.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0147"
+           d="m 69.051379,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0148"
+           d="m 107.15138,45.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0149"
+           d="m 75.051379,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0150"
+           d="m 107.15138,39.259179 v 5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0151"
+           d="m 75.151379,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0152"
+           d="m 110.05138,39.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0153"
+           d="m 75.151379,13.059179 h 5.799997 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0154"
+           d="m 110.15138,39.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0155"
+           d="m 80.951376,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0156"
+           d="m 110.15138,33.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0157"
+           d="m 80.951376,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0158"
+           d="m 110.05138,33.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0159"
+           d="m 81.051376,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0160"
+           d="m 107.15138,33.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0161"
+           d="m 87.051376,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0162"
+           d="m 107.15138,27.259179 v 5.8 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0163"
+           d="m 87.151376,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0164"
+           d="m 110.05138,27.259179 h -2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0165"
+           d="m 87.151376,13.059179 h 5.8 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0166"
+           d="m 110.15138,27.159179 c 0,0.055 -0.045,0.1 -0.1,0.1 v 0 c 0.055,0 0.1,-0.045 0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0167"
+           d="m 92.951376,13.059179 v -2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0168"
+           d="m 110.15138,21.159179 v 6 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0169"
+           d="m 92.951376,10.159179 c 0,-0.055 0.045,-0.1 0.1,-0.1 v 0 c -0.055,0 -0.1,0.045 -0.1,0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0170"
+           d="m 110.05138,21.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0171"
+           d="m 93.051376,10.059179 h 6 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0172"
+           d="m 107.15138,21.059179 h 2.9 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0173"
+           d="m 99.051376,10.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0174"
+           d="m 107.15138,13.159179 v 7.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0175"
+           d="m 99.151376,10.159179 v 2.9 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0176"
+           d="m 107.05138,13.059179 c 0.055,0 0.1,0.045 0.1,0.1 v 0 c 0,-0.055 -0.045,-0.1 -0.1,-0.1 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           id="Cut_f0177"
+           d="m 99.151376,13.059179 h 7.900004 v 0 z"
+           stroke="#191919"
+           stroke-width="0.35 px"
+           style="fill:#cccccc;fill-opacity:1;fill-rule:evenodd;stroke-width:0.35;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
     </g>
     <circle
        cx="44.881001"
@@ -1248,6 +1221,34 @@ SettingsUrl short: https://boxes.hackerspace-bamberg.de/boxes.py/ClosedBox?h=50.
        stroke-width="0.35 px"
        style="fill:#cccccc;stroke-width:0.292683;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
        id="circle182"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     id="g941">
+    <g
+       id="p-4"
+       style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+      <text
+         dominant-baseline="hanging"
+         font-size="4px"
+         style="font-family: sans-serif ; font-weight: normal; font-style: normal; fill: rgb(255,0,0)"
+         text-anchor="middle"
+         transform="matrix( 1.000 0.000 0.000 1.000 60.100 134.900 )"
+         id="text26">Wall 3</text>
+      <path
+         d="M 13.100 161.900 H 21.100 C 21.155 161.900 21.200 161.855 21.200 161.800 V 158.900 C 21.200 158.800 21.100 158.900 21.200 158.900 H 27.000 C 27.100 158.900 27.000 158.800 27.000 158.900 V 161.800 C 27.000 161.855 27.045 161.900 27.100 161.900 H 33.100 C 33.155 161.900 33.200 161.855 33.200 161.800 V 158.900 C 33.200 158.800 33.100 158.900 33.200 158.900 H 39.000 C 39.100 158.900 39.000 158.800 39.000 158.900 V 161.800 C 39.000 161.855 39.045 161.900 39.100 161.900 H 45.100 C 45.155 161.900 45.200 161.855 45.200 161.800 V 158.900 C 45.200 158.800 45.100 158.900 45.200 158.900 H 51.000 C 51.100 158.900 51.000 158.800 51.000 158.900 V 161.800 C 51.000 161.855 51.045 161.900 51.100 161.900 H 57.100 C 57.155 161.900 57.200 161.855 57.200 161.800 V 158.900 C 57.200 158.800 57.100 158.900 57.200 158.900 H 63.000 C 63.100 158.900 63.000 158.800 63.000 158.900 V 161.800 C 63.000 161.855 63.045 161.900 63.100 161.900 H 69.100 C 69.155 161.900 69.200 161.855 69.200 161.800 V 158.900 C 69.200 158.800 69.100 158.900 69.200 158.900 H 75.000 C 75.100 158.900 75.000 158.800 75.000 158.900 V 161.800 C 75.000 161.855 75.045 161.900 75.100 161.900 H 81.100 C 81.155 161.900 81.200 161.855 81.200 161.800 V 158.900 C 81.200 158.800 81.100 158.900 81.200 158.900 H 87.000 C 87.100 158.900 87.000 158.800 87.000 158.900 V 161.800 C 87.000 161.855 87.045 161.900 87.100 161.900 H 93.100 C 93.155 161.900 93.200 161.855 93.200 161.800 V 158.900 C 93.200 158.800 93.100 158.900 93.200 158.900 H 99.000 C 99.100 158.900 99.000 158.800 99.000 158.900 V 161.800 C 99.000 161.855 99.045 161.900 99.100 161.900 H 107.100 H 110.100 C 110.155 161.900 110.200 161.855 110.200 161.800 V 158.800 V 151.800 C 110.200 151.745 110.155 151.700 110.100 151.700 H 107.200 C 107.100 151.700 107.200 151.800 107.200 151.700 V 145.900 C 107.200 145.800 107.100 145.900 107.200 145.900 H 110.100 C 110.155 145.900 110.200 145.855 110.200 145.800 V 139.800 C 110.200 139.745 110.155 139.700 110.100 139.700 H 107.200 C 107.100 139.700 107.200 139.800 107.200 139.700 V 133.900 C 107.200 133.800 107.100 133.900 107.200 133.900 H 110.100 C 110.155 133.900 110.200 133.855 110.200 133.800 V 127.800 C 110.200 127.745 110.155 127.700 110.100 127.700 H 107.200 C 107.100 127.700 107.200 127.800 107.200 127.700 V 121.900 C 107.200 121.800 107.100 121.900 107.200 121.900 H 110.100 C 110.155 121.900 110.200 121.855 110.200 121.800 V 114.800 V 111.800 C 110.200 111.745 110.155 111.700 110.100 111.700 H 107.100 H 99.100 C 99.045 111.700 99.000 111.745 99.000 111.800 V 114.700 C 99.000 114.800 99.100 114.700 99.000 114.700 H 93.200 C 93.100 114.700 93.200 114.800 93.200 114.700 V 111.800 C 93.200 111.745 93.155 111.700 93.100 111.700 H 87.100 C 87.045 111.700 87.000 111.745 87.000 111.800 V 114.700 C 87.000 114.800 87.100 114.700 87.000 114.700 H 81.200 C 81.100 114.700 81.200 114.800 81.200 114.700 V 111.800 C 81.200 111.745 81.155 111.700 81.100 111.700 H 75.100 C 75.045 111.700 75.000 111.745 75.000 111.800 V 114.700 C 75.000 114.800 75.100 114.700 75.000 114.700 H 69.200 C 69.100 114.700 69.200 114.800 69.200 114.700 V 111.800 C 69.200 111.745 69.155 111.700 69.100 111.700 H 63.100 C 63.045 111.700 63.000 111.745 63.000 111.800 V 114.700 C 63.000 114.800 63.100 114.700 63.000 114.700 H 57.200 C 57.100 114.700 57.200 114.800 57.200 114.700 V 111.800 C 57.200 111.745 57.155 111.700 57.100 111.700 H 51.100 C 51.045 111.700 51.000 111.745 51.000 111.800 V 114.700 C 51.000 114.800 51.100 114.700 51.000 114.700 H 45.200 C 45.100 114.700 45.200 114.800 45.200 114.700 V 111.800 C 45.200 111.745 45.155 111.700 45.100 111.700 H 39.100 C 39.045 111.700 39.000 111.745 39.000 111.800 V 114.700 C 39.000 114.800 39.100 114.700 39.000 114.700 H 33.200 C 33.100 114.700 33.200 114.800 33.200 114.700 V 111.800 C 33.200 111.745 33.155 111.700 33.100 111.700 H 27.100 C 27.045 111.700 27.000 111.745 27.000 111.800 V 114.700 C 27.000 114.800 27.100 114.700 27.000 114.700 H 21.200 C 21.100 114.700 21.200 114.800 21.200 114.700 V 111.800 C 21.200 111.745 21.155 111.700 21.100 111.700 H 13.100 H 10.100 C 10.045 111.700 10.000 111.745 10.000 111.800 V 114.800 V 121.800 C 10.000 121.855 10.045 121.900 10.100 121.900 H 13.000 C 13.100 121.900 13.000 121.800 13.000 121.900 V 127.700 C 13.000 127.800 13.100 127.700 13.000 127.700 H 10.100 C 10.045 127.700 10.000 127.745 10.000 127.800 V 133.800 C 10.000 133.855 10.045 133.900 10.100 133.900 H 13.000 C 13.100 133.900 13.000 133.800 13.000 133.900 V 139.700 C 13.000 139.800 13.100 139.700 13.000 139.700 H 10.100 C 10.045 139.700 10.000 139.745 10.000 139.800 V 145.800 C 10.000 145.855 10.045 145.900 10.100 145.900 H 13.000 C 13.100 145.900 13.000 145.800 13.000 145.900 V 151.700 C 13.000 151.800 13.100 151.700 13.000 151.700 H 10.100 C 10.045 151.700 10.000 151.745 10.000 151.800 V 158.800 V 161.800 C 10.000 161.855 10.045 161.900 10.100 161.900 H 13.100"
+         stroke="rgb(0,0,0)"
+         stroke-width="0.20"
+         id="path28" />
+    </g>
+    <circle
+       cx="60.100002"
+       cy="-136.60001"
+       r="4.8780489"
+       stroke="#191919"
+       stroke-width="0.35 px"
+       style="fill:#cccccc;stroke-width:0.243903;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none"
+       id="circle182-3"
        transform="scale(1,-1)" />
   </g>
 </svg>
