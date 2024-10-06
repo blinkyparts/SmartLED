@@ -1,5 +1,7 @@
 # SmartLED
 
+[Printables](https://www.printables.com/model/1030468-giant-smart-led)
+
 ## Bauteile
 
 ca. 0,5m WS2812 144LED/m IP30 Led Stripe [hier](https://de.aliexpress.com/item/1005004289391906.html?spm=a2g0o.productlist.main.1.1ef44a2fJO9zib&algo_pvid=6fd4143e-1fed-4856-92d6-03f6bf9f9059&algo_exp_id=6fd4143e-1fed-4856-92d6-03f6bf9f9059-0&pdp_npi=4%40dis%21EUR%2118.99%212.83%21%21%21147.08%2121.87%21%40211b618e17249506735388810e7476%2112000038338767396%21sea%21DE%210%21ABX&curPageLogUid=D3sFIdcluINX&utparam-url=scene%3Asearch%7Cquery_from%3A)
