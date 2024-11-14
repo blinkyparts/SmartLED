@@ -1,29 +1,33 @@
-# SmartLED
+# Smart LED
 
-[Printables](https://www.printables.com/model/1030468-giant-smart-led)
+A huge THT LED Desk Lamp, Powered by the awesome [Wled](https://github.com/Aircoookie/WLED) project.
 
-## Bauteile
+<img src="assets/IMG_20241113_180558079.jpg" width=380px alt="Smart LED Part overview"> <img src="assets/thumbnail.jpg" width=120px alt="Rainbow Axolotl back">
 
-ca. 0,5m WS2812 144LED/m IP30 Led Stripe [hier](https://de.aliexpress.com/item/1005004289391906.html?spm=a2g0o.productlist.main.1.1ef44a2fJO9zib&algo_pvid=6fd4143e-1fed-4856-92d6-03f6bf9f9059&algo_exp_id=6fd4143e-1fed-4856-92d6-03f6bf9f9059-0&pdp_npi=4%40dis%21EUR%2118.99%212.83%21%21%21147.08%2121.87%21%40211b618e17249506735388810e7476%2112000038338767396%21sea%21DE%210%21ABX&curPageLogUid=D3sFIdcluINX&utparam-url=scene%3Asearch%7Cquery_from%3A)
+- Status: **Complete**
+- Difficulty: **5/5**
 
-1x ESP32-WROOM [hier](https://shop.blinkyparts.com/de/ESP32-WROOM-NodeMCU-Entwicklungsboard-WiFi-Bluetooth-Ultra-Low-Power-Dual-Core-38-Pin-Breakoutboard/blink239142)
+### Parts List
 
-3x 3d Gedruckte teile
+Find printable parts on [Printables](https://www.printables.com/model/1030468-giant-smart-led)
 
-2x Alu Rohr 12mm (15cm und 20cm)
+| Description                   | Quantity |
+|-------------------------------|----------|
+| ESP32                         |     1    |
+| 3D Printed Parts              |     4    |
+| 12mm Aluminium Pipe           |   35cm   |
+| WS2812 LED Stripe             |  ca.0,5m |
+| Wood Parts                    |     6    |
+| USB-A cable (one open end)    |     1    |
+| 11mm Push Button              |     1    |
+| 5mm Toggle Switch             |     1    |
+| Stranded Wire                 |  ca. 2m  |
+| Wood Glue                     |          |
+| Glue                          |          |
 
-6x Holz teile
+### Copyright and Authorship
 
-1x USB-C wand einlass 2Pin [hier](https://de.aliexpress.com/item/1005005353972599.html?spm=a2g0o.productlist.main.7.40b535a5HWKzuI&algo_pvid=41af3fda-815d-4e2e-ada1-2233a68fb416&aem_p4p_detail=2024082909591412219562291473810002855074&algo_exp_id=41af3fda-815d-4e2e-ada1-2233a68fb416-3&pdp_npi=4%40dis%21EUR%215.97%210.99%21%21%2146.22%217.64%21%40211b618e17249507547393519e7476%2112000032874815509%21sea%21DE%210%21ABX&curPageLogUid=ih4cm372yBzK&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024082909591412219562291473810002855074_1)
+- Design: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Mario Langhammer
 
-etwas Kabel und Evtl. Fädeldraht
-
-## Aufbau
-
-tbd.
-
-## Software
-
-Als Software kommt [Wled](https://kno.wled.ge/) zum einsatz. 
-
-Zum Flashen einfach den ESP per USB an einen computer anschließen, und [Install Wled](https://install.wled.me/) aufrufen.
+### Buy Kit
+Stay Tuned!!
