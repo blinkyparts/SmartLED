@@ -2,7 +2,7 @@
 
 A huge THT LED Desk Lamp, Powered by the awesome [Wled](https://github.com/Aircoookie/WLED) project.
 
-<img src="assets/IMG_20241113_180558079.jpg" width=380px alt="Smart LED Part overview"> <img src="assets/thumbnail.jpg" width=120px alt="Rainbow Axolotl back">
+<img src="assets/IMG_20241113_180558079.jpg" width=380px alt="Smart LED Part overview"> <img src="assets/thumbnail.jpg" width=120px alt="Smart LED overview">
 
 - Status: **Complete**
 - Difficulty: **5/5**
